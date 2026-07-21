@@ -6,7 +6,7 @@ Feel free to contribute to my open-source projects, it is a great honor for a du
 
 You can reach out to me on <a href="https://bsky.app/profile/sentiensilencx.github.io">bluesky</a>, or <a href="https://x.com/hazeyl_">X</a> (ew).
 
-I'm also learning UI/UX design and I make cool posters!! You can check out my <a href="https://kardeshev.carrd.co/">sexy portfolio</a> or my <a href="/">pinterest</a>.
+I'm also learning UI/UX design and I make cool posters!! You can check out my <a href="https://kardeshev.carrd.co/">sexy portfolio</a> or my <a href="https://www.pinterest.com/hazel_isnotreal/">pinterest</a>.
 
 Currently coding stuff as a hobby, I don't plan on doing a job atm.
 
