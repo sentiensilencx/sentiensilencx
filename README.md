@@ -14,11 +14,11 @@ Some of my shipped projects that I use daily:
 - <a href="https://foli-zero.vercel.app">folix</a>, web-app music player for local music files! It's still in development, but the prototype is functional >:D.
 - <a href="https://seven-two-psi.vercel.app">seven</a>, which is a markdown editor that I myself: use daily.
 - <a href="https://pancake-henna.vercel.app/">Pancake wiki</a>, which is a Vitepress based Wikipedia for weird stuff I stumbled upon whilst being on the web.
-Stuff I'm not super proud of but still worth mentioning:
-- <a href="https://reflexxyz.vercel.app/">Reflex</a>, which is literally just <a href="https://github.com/cinnyapp/cinny">Cinny</a>, just with DM Sans. Would classify as abandoned, I wouldn't recommend relying on it.
+- <a href="https://retroark.vercel.app/">retroark</a>, a retro-looking, hand-recorded sfx, crt-screen-kinda to-do app. I'm not exactly sure why I made it, but it feels very tactile and fun to use.
+- <a href="https://reflexxyz.vercel.app/">Reflex</a>, which is literally just <a href="https://github.com/cinnyapp/cinny">Cinny</a>, just with DM Sans. Would classify as abandoned, I wouldn't recommend relying on it. But worth mentioning because, yeah.
 
 Excited by <a href="https://polyproto.org/">polyproto</a> as an alternative to <a href="https://matrix.org/">Matrix</a>, eventually!
 
-Currently coding stuff as a hobby, trying to learn, and having fun. I don't plan on doing a job right now.  
+Currently coding stuff as a hobby, trying to learn, and having fun. I don't plan on doing a job currently. 
 
-Yes, I code with AI. Many people have called me shit over this. I code because I like *using* good software; I'm not as much a fan developing all of it. I genuinely cannot find the will in myself to stare at code that constantly throws errors at my face (yet). If you find that in any way against your "code purity" values, then please. Instead of trying to change my mind, just leave my profile.
+Moreover: yes, I code with AI. Many people have called me shit over this. I code because I like *using* good software; I'm not as much a fan developing the backend. I genuinely cannot find the will in myself to stare at backend code that constantly throws errors at my face (yet). If you find that in any way against your "code purity" values, then please. Instead of trying to change my mind, just leave my profile.
